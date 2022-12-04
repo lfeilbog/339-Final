@@ -46,9 +46,10 @@ header {
 
 #footer_logo {
   width: 120px;
+  height:120px;
   display: flex;
   justify-content: flex-start;
-  height: fit-content;
+/*   height: fit-content; */
 }
 
 #main a:visited {
