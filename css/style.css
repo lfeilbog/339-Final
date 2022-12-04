@@ -115,12 +115,11 @@ nav a {
 }
 
 footer {
-  display: flex;
-  flex-direction: row;
+  
   color: #00274C;
   background-color: #bbb;
-  justify-content: space-between;
-  align-items: center;
+  padding: 15px;
+ 
 
 
 }
