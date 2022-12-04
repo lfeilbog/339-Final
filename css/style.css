@@ -44,13 +44,7 @@ header {
   height: fit-content;
 }
 
-#footer_logo {
-  width: 120px;
-  height:110px;
-  display: flex;
-  justify-content: flex-start;
-/*   height: fit-content; */
-}
+
 
 #main a:visited {
   color: inherits;
